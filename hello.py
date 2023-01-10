@@ -11,5 +11,6 @@ animals = ['cat','dog', 'dragon']
 menus = [
     'hamburger',
     'salad',
-    'Ramen'
+    'Ramen',
+    'chicken',
 ]
